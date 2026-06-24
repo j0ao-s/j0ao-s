@@ -1,24 +1,64 @@
-## Bem-vindo(a) ao meu perfil, Prazer me chamo João Manoel 😁
+```md
+<h1 align="center">João Manoel</h1>
 
- <div>
-   <a href="https://github.com/j0ao-s">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=j0ao-s&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0ao-s&layout=compact&langs_count=6&theme=dark"/>
+<p align="center">
+  Desenvolvedor criativo construindo soluções digitais, jogos e produtos para negócios reais.
+</p>
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
- 
- <br>
- 
-  ### Me siga nas redes abaixo!
- 
-<div> 
-  <a href="https://instagram.com/j0ao_gamedev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/j0aos/">LinkedIn</a> ·
+  <a href="https://portifolio-joao-manoel.vercel.app/">Portfólio</a> ·
+  <a href="mailto:joaaomanoeljok@gmail.com">E-mail</a>
+</p>
+
+---
+
+## Sobre mim
+
+Sou um desenvolvedor em evolução, com foco em criar soluções digitais que conectam tecnologia, design e negócios.
+
+Atualmente estou explorando desenvolvimento web, aplicativos, jogos, inteligência artificial e automações, buscando transformar ideias em produtos úteis, funcionais e bem apresentados.
+
+Gosto de construir projetos com visão de produto: não apenas código funcionando, mas soluções que resolvem problemas reais.
+
+---
+
+## Foco atual
+
+- Desenvolvimento web moderno
+- Soluções digitais para negócios
+- Aplicativos e experiências mobile
+- Desenvolvimento de jogos
+- Inteligência Artificial e automação
+- Construção de produtos digitais
+
+---
+
+## Tecnologias e ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,kotlin,unity,cs,firebase,git,github" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=j0ao-s&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0ao-s&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## Vamos conectar?
+
+<p>
+  <a href="https://www.linkedin.com/in/j0aos/">LinkedIn</a> ·
+  <a href="https://portifolio-joao-manoel.vercel.app/">Portfólio</a> ·
+  <a href="mailto:joaaomanoeljok@gmail.com">joaaomanoeljok@gmail.com</a>
+</p>
+```
