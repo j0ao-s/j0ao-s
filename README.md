@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">João Manoel</h1>
 
 <p align="center">
