@@ -44,15 +44,6 @@ Web Development  •  Digital Products  •  Games  •  Mobile  •  AI & Autom
 
 ---
 
-### GitHub
-
-<p align="center">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=j0ao-s&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0ao-s&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   <strong>Construindo, aprendendo e transformando ideias em soluções digitais.</strong>
 </p>
